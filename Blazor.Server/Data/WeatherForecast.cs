@@ -2,7 +2,7 @@ using System;
 
 namespace Blazor.Server.Data
 {
-	public class WeatherForecast
+	public class WeatherForecastDto
 	{
 		public DateTime Date { get; set; }
 
